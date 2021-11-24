@@ -306,6 +306,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1531307931}
+  - component: {fileID: 1531307930}
   m_Layer: 0
   m_Name: Level
   m_TagString: Untagged
@@ -313,6 +314,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &1531307930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1531307929}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c903338421574249ae67c9f59b1517f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  grid: {fileID: 1559095973}
+  hud: {fileID: 1876146476}
+  score1Star: 0
+  score2Star: 0
+  score3Star: 0
+  numMoves: 0
+  targetScore: 0
 --- !u!4 &1531307931
 Transform:
   m_ObjectHideFlags: 0
@@ -359,7 +379,7 @@ MonoBehaviour:
   xDim: 9
   yDim: 9
   fillTime: 0.1
-  level: {fileID: 0}
+  level: {fileID: 1531307930}
   piecePrefabs:
   - type: 0
     prefab: {fileID: 6544846850554166858, guid: d481e6989b40f4841b72bf431a3ff80f, type: 3}
@@ -556,3 +576,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d347dbf56d2874a2f930fba141424b2f, type: 3}
+--- !u!114 &1876146476 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3187895681133088594, guid: d347dbf56d2874a2f930fba141424b2f, type: 3}
+  m_PrefabInstance: {fileID: 1876146475}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b155bdb2ee6fe4b25ada3db8947ac961, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
