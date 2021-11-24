@@ -1,0 +1,40 @@
+[api-updater (non-obsolete-error-filter)] 19/11/2021 02:06:09 : Starting /Volumes/OS X Recovery/Unity_Project_Folders/2020.3.20f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 867,738ms
+moved types parse time: 121ms
+candidates parse time : 34ms
+C# parse time         : 763ms
+candidates check time : 55ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 19/11/2021 22:47:47 : Starting /Volumes/OS X Recovery/Unity_Project_Folders/2020.3.20f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 689,735ms
+moved types parse time: 120ms
+candidates parse time : 13ms
+C# parse time         : 599ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 19/11/2021 22:49:35 : Starting /Volumes/OS X Recovery/Unity_Project_Folders/2020.3.20f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 72,708ms
+moved types parse time: 67ms
+candidates parse time : 1ms
+C# parse time         : 317ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/11/2021 21:42:18 : Starting /Volumes/OS X Recovery/Unity_Project_Folders/2020.3.20f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 864,576ms
+moved types parse time: 120ms
+candidates parse time : 13ms
+C# parse time         : 620ms
+candidates check time : 56ms
+console write time    : 0ms
+
